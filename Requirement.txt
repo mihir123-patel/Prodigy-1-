@@ -1,0 +1,4 @@
+numpy
+pandas
+matplotlib 
+you can use seaborn instead of matplotlib
